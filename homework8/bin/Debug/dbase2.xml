@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <text />
+    <trueFalse>false</trueFalse>
+  </Question>
+  <Question>
+    <text>Работа - не волк. Только волк - волк.</text>
+    <trueFalse>true</trueFalse>
+  </Question>
+  <Question>
+    <text>Яйца могут иметь зелёный цвет скорлупы</text>
+    <trueFalse>true</trueFalse>
+  </Question>
+</ArrayOfQuestion>
